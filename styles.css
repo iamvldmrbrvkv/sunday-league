@@ -132,11 +132,15 @@ ul {
         width: 100%;
     }
 
-    .text p {
-        font-size: 1.3rem;
+    .about h1 {
+        font-size: 1.6rem;
     }
 
-    .table-list {
+    .text p {
+        font-size: 1.1rem;
+    }
+
+    .table-list li {
         font-size: 1.3rem;
     }
 
