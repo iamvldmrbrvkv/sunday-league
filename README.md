@@ -1,2 +1,2 @@
 # sunday-league
-Codeacademy's responsive website project.
+Codecademy's responsive website project.
